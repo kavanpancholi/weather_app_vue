@@ -1,0 +1,3 @@
+<template>
+    <weather></weather>
+</template>
